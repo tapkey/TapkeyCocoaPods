@@ -9,7 +9,7 @@
     :ios => "9.0",
     :watchos => "2.0"
   }
-  s.source = { :http => "https://cocoapods.tapkey.com/GsonJ2ObjC/2.8.6-alpha2/Gson-2.8.6-alpha2.zip", :sha256 => "7151e1e9e94c1ac1054756a01b0d16f82022d45808b8538cbe7edf6964528167"}
+  s.source = { :http => "https://cocoapods.tapkey.com/GsonJ2ObjC/2.8.6-alpha2/Gson-2.8.6-alpha2.zip", :sha256 => "e5a4181c7064b361be70c5812c2aeb72b29fcf03072379474eff8d1f0c543254"}
   s.dependency "JRE", "2.8.1-tk-alpha2"
   s.static_framework = true
   s.vendored_frameworks = "Gson.xcframework"
