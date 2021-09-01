@@ -9,6 +9,6 @@
     :ios => "9.0",
     :watchos => "2.0",
   }
-  s.source = { :http => "https://cocoapods.tapkey.com/J2ObjC-Transpiler/2.8.1-tk-alpha2/J2ObjC-Transpiler-2.8.1-tk-alpha2.zip", :sha256 => "a2fec5e1a6e67185fd7d515d87975ba1104c5f95b4f6da8d80b7c0f2a9753c93"}
+  s.source = { :http => "https://cocoapods.tapkey.com/J2ObjC-Transpiler/2.8.1-tk-alpha2/J2ObjC-Transpiler-2.8.1-tk-alpha2.zip", :sha256 => "d8bf0d4cd47c7bd476630ad22bd3821a16a314e772645413b01ff8875816bf9f"}
   s.preserve_paths = "*"
 end
