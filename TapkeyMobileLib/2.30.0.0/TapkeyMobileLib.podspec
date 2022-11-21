@@ -20,7 +20,7 @@
             :ios => "11.0",
             :watchos => "6.2"
         }
-        cs.ios.dependency 'SocketRocket', '0.5.1'
+        cs.ios.dependency 'SocketRocket', '0.6.0'
         cs.dependency 'JRE-Slim', '2.8.1.3-tk'
         cs.dependency 'GsonJ2ObjC-Light', '2.8.6.4'
 
